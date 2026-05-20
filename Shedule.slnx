@@ -1,5 +1,5 @@
 <Solution>
-  <Project Path="Cacl/Cacl/MiniCacl.csproj" />
+  <Project Path="Calc/Calc.csproj" />
   <Project Path="HomeWork4Task1/HomeWork4Task1.csproj" />
   <Project Path="HomeWork4Task2/HomeWork4Task2.csproj" />
   <Project Path="HomeWork4Task3/HomeWork4Task3.csproj" />
