@@ -7,7 +7,7 @@
             Console.BackgroundColor = ConsoleColor.Green;
             Console.ForegroundColor = ConsoleColor.Blue;
 
-            Console.WriteLine("Hello, Alexander!");
+            Console.WriteLine("Hello, Alexander ououo!");
             Console.ResetColor();
         }
     }
